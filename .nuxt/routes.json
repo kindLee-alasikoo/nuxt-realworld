@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/",
+    "component": "/Users/jinlong/Desktop/nuxt-realworld/pages/layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "/Users/jinlong/Desktop/nuxt-realworld/pages/home",
+        "_name": "_5f0eea38"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "/Users/jinlong/Desktop/nuxt-realworld/pages/login",
+        "_name": "_f9f2b5a0"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "/Users/jinlong/Desktop/nuxt-realworld/pages/login",
+        "_name": "_f9f2b5a0"
+      },
+      {
+        "path": "/profile",
+        "name": "profile",
+        "component": "/Users/jinlong/Desktop/nuxt-realworld/pages/profile",
+        "_name": "_95ce2ca0"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "/Users/jinlong/Desktop/nuxt-realworld/pages/settings",
+        "_name": "_7f445cfc"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "/Users/jinlong/Desktop/nuxt-realworld/pages/editor",
+        "_name": "_5d7bb6f4"
+      },
+      {
+        "path": "/article",
+        "name": "article",
+        "component": "/Users/jinlong/Desktop/nuxt-realworld/pages/article",
+        "_name": "_c839a606"
+      }
+    ],
+    "_name": "_45de037a"
+  }
+]
