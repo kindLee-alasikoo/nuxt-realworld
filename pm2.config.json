@@ -2,7 +2,7 @@
     "apps":[
         {
             "name":"realworld",
-            "scripy":"npm",
+            "script":"npm",
             "args":"start"
         }
     ]

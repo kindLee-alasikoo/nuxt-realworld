@@ -26,7 +26,7 @@
                 type="text"
                 placeholder="Your Name"
                 v-model="user.username"
-                required
+                required 
               />
             </fieldset>
             <fieldset class="form-group">
