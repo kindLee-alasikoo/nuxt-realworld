@@ -1,0 +1,9 @@
+{
+    "apps":[
+        {
+            "name":"realworld",
+            "scripy":"npm",
+            "args":"start"
+        }
+    ]
+}
